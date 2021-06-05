@@ -1,0 +1,15 @@
+git status  ----shows all the files that have to be commited
+
+git clone <url>  ----used to obtain a repository from an existing URL
+
+git add <filename>  ----adds a file to the staging area
+
+git commit -m <message>   ----records the file in version history
+
+git diff  ----shows the file differences which are not yet staged
+
+git diff -staged   ----shows differences between the files in the staging area and the latest version
+ 
+
+
+etc etc
