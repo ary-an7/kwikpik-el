@@ -1,0 +1,1 @@
+result = Entry.objects.get(pk=7)

@@ -1,0 +1,13 @@
+etc/init.d/crond start  ---to start cron
+
+etc/init.d/crond restart  ---to restart cron
+
+etc/init.d/crond stop  ---to stop cron
+
+crontab -e  ---to edit or create
+
+crontab -l  ---display the list of tasks
+
+crontab -r  ---remove/delete all tasks
+
+
